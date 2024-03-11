@@ -62,3 +62,9 @@ git remote add origin https://github.com/bullitjose/testing.git
 git branch -M main
 git push -u origin main
 ```
+
+#JUnit 5. (Java Master Class, amigosCode, lesson274)
+
+[JUnit 5](https://junit.org/junit5/)
+
+JUnit 5 = JUnit Platform + JUnit Jupiter + JUnit Vintage
