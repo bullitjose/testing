@@ -67,3 +67,4 @@ git push -u origin main
 
 [JUnit 5](https://junit.org/junit5/)
 
+JUnit 5 = JUnit Platform + JUnit Jupiter + JUnit Vintage
